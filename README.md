@@ -1,11 +1,11 @@
 # MARV: Multi-Agent Requirement Validator
 
-![MARV Logo](./assets/marv-logo.png) <!-- Replace with your logo path -->
+![MARV Logo](./assets/marvlogo.png)
 
-MARV is an AI-powered software tool for automated validation of software requirements using a collaborative, multi-agent architecture. It leverages advanced LLMs and retrieval-augmented generation (RAG) to streamline requirements analysis, standards compliance, and team discussions—making SRS reviews faster, smarter, and more reliable.
+MARV is an AI-powered  tool for automated validation of software requirements using a collaborative, multi-agent architecture. It leverages advanced LLMs and retrieval-augmented generation (RAG) to streamline requirements analysis, standards compliance, and team discussions—making SRS reviews faster, smarter, and more reliable.
 
 ---
-
+![LandingPage](./assets/landingpage.png)
 ## 🚀 Features
 
 - **Multi-Agent Validation:** Developer, Architect, Product Manager, and Summarizer agents collaborate to review each requirement from different perspectives.
