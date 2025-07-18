@@ -1,112 +1,71 @@
-# MARV: Multi-Agent RAG Validator
+# MARV: Multi-Agent Requirement Validator
 
-A modern, multi-agent, RAG-powered tool for **validation of software requirements specifications**. MARV uses LLM agents, semantic search, and standards mapping to help you:
-
-- Upload and vectorize requirements and standards
-- Run multi-agent validation (developer, architect, product manager)
-- See flagged requirements and compliance issues
-- Ask questions about the entire validation session (chat with your results!)
+![MARV Logo](./assets/marvlogo.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Streamlit-1.30-red?logo=streamlit" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector%20DB-purple?logo=qdrant" />
+  <img src="https://img.shields.io/badge/LLMs-LLaMA%203-green?logo=meta" />
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface" />
+  <img src="https://img.shields.io/badge/RAG-Enabled-orange" />
+</p>
+MARV is an AI-powered  tool for automated validation of software requirements using a collaborative, multi-agent architecture. It leverages advanced LLMs and retrieval-augmented generation (RAG) to streamline requirements analysis, standards compliance, and team discussions—making SRS reviews faster, smarter, and more reliable.
 
 ---
-
+![LandingPage](./assets/landingpage.png)
 ## 🚀 Features
 
-- **Requirements Upload:** Upload .txt or .csv files, vectorize, and store in Qdrant.
-- **Standards Upload:** Upload .txt or .csv standards, vectorize, and store in Qdrant.
-- **Multi-Agent Validation:** Developer, Architect, and Product Manager agents review requirements against standards, producing a validation table and flagged issues.
-- **Session Transcript Storage:** Each validation run is stored as a single vector for semantic Q&A.
-- **Ask Questions:** Chat with your validation session, get answers and recommendations from MARV.
+- **Multi-Agent Validation:** Developer, Architect, Product Manager, and Summarizer agents collaborate to review each requirement from different perspectives.
+- **RAG Workflow:** Seamlessly matches requirements to relevant standards using vector search (Qdrant) and sentence embeddings.
+- **Interactive Streamlit UI:** Upload, validate, and explore flagged issues and feedback—all in an intuitive dashboard.
+- **Session-Based Q&A:** Ask follow-up questions and receive context-aware answers based on full validation history.
+- **Executive Summaries:** Instantly get concise, actionable summaries for decision makers.
 
 ---
 
-## 🛠️ Setup & Installation
+## 🖥️ Quick Start
 
-### 1. **Clone the repository**
-
-```bash
-git clone <your-repo-url>
-cd MultiAgentValidator/MARV
-```
-
-### 2. **Install dependencies**
-
-```bash
-pip install -r requirements.txt
-```
-
-- Make sure you have Python 3.9+ and [Qdrant](https://qdrant.tech/documentation/quick-start/) running locally (default: `localhost:6333`).
-- You may need to install [PyTorch](https://pytorch.org/get-started/locally/) for sentence-transformers.
-
-### 3. **Set environment variables (optional)**
-
-You can override the default LLM API, key, or model by setting:
-
-- `LLM_API_URL`
-- `LLM_API_KEY`
-- `LLM_MODEL`
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-org/marv-multi-agent-requirement-validator.git
+    cd marv-multi-agent-requirement-validator
+    ```
+2. **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+3. **Start Qdrant (Vector DB):**
+    ```bash
+    docker run -p 6333:6333 -p 6334:6334 qdrant/qdrant
+    ```
+4. **Launch MARV:**
+    ```bash
+    streamlit run main.py
+    ```
 
 ---
 
-## ▶️ How to Run
+## 📂 Project Structure
 
-```bash
-streamlit run main.py
-```
+- `main.py` – Streamlit app entry point
+- `agents_langgraph.py` – Agent logic and core functions
+- `requirements.txt` – Dependencies
+- `assets/` – Project assets
 
-The app will open in your browser at [http://localhost:8501](http://localhost:8501)
+---
+## 🏗️ How to Use
+
+- **Tab 1:** Upload your requirements (.txt or .csv)
+- **Tab 2:** Upload standards for compliance checking
+- **Tab 3:** Run validation — view agent discussion, flagged requirements, and summary
+- **Tab 4:** Ask MARV questions about the full validation session!
 
 ---
 
-## 🖥️ How to Use
-
-### **Tab 1: Requirements**
-- Upload a `.txt` or `.csv` file with your requirements (one per line or in a `Text` column).
-- Name your collection and upload.
-
-### **Tab 2: Standards**
-- Upload a `.txt` or `.csv` file with standards (one per line or in a `Text` column).
-- Name your collection and upload.
-
-### **Tab 3: Validate**
-- Select your requirements and standards collections.
-- Click **Start Validation**.
-- See:
-  - Agent discussion (chat bubbles)
-  - Validation table (with compliance scores, issues, suggestions)
-  - Flagged requirements
-  - Executive summary
-- After validation, the full session transcript is stored for Q&A.
-
-### **Tab 4: Ask Questions**
-- Select a validation session (by timestamp).
-- See the session transcript.
-- Click a suggested question or type your own.
-- Get answers from MARV, with chat history.
+## 🙋‍♂️ Team & Contact.  
+Questions or feedback?
+email us at harisrujan.chinnam@tuni.fi
 
 ---
 
-## ⚡ Troubleshooting
-
-- **Qdrant not running?** Start Qdrant with Docker:
-  ```bash
-  docker run -p 6333:6333 -p 6334:6334 qdrant/qdrant
-  ```
-- **LLM API not responding?** Check your API URL and key, or use the default public endpoint.
-- **Session state errors?** Make sure you are not modifying Streamlit session state after widgets are rendered (see code for bulletproof patterns).
-
----
-
-## 📄 License
-
-This project is for research and educational use. See LICENSE for details.
-
----
-
-## 🤖 Authors
-
-- [Your Name/Team]
-- [Your Institution or Organization]
-
----
-
-Enjoy using MARV for smarter, multi-agent requirements validation! 
+**MARV — Validate smarter. Build better.**
