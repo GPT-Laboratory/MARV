@@ -1,7 +1,14 @@
 # MARV: Multi-Agent Requirement Validator
 
 ![MARV Logo](./assets/marvlogo.png)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Streamlit-1.30-red?logo=streamlit" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector%20DB-purple?logo=qdrant" />
+  <img src="https://img.shields.io/badge/LLMs-LLaMA%203-green?logo=meta" />
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface" />
+  <img src="https://img.shields.io/badge/RAG-Enabled-orange" />
+</p>
 MARV is an AI-powered  tool for automated validation of software requirements using a collaborative, multi-agent architecture. It leverages advanced LLMs and retrieval-augmented generation (RAG) to streamline requirements analysis, standards compliance, and team discussions—making SRS reviews faster, smarter, and more reliable.
 
 ---
