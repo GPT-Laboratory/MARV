@@ -42,30 +42,22 @@ MARV is an AI-powered software tool for automated validation of software require
 
 - `main.py` – Streamlit app entry point
 - `agents_langgraph.py` – Agent logic and core functions
-- `requirements.txt` – Python dependencies
-- `assets/` – (Put your logo and images here)
+- `requirements.txt` – Dependencies
+- `assets/` – Project assets
+
+---
+## 🏗️ How to Use
+
+- **Tab 1:** Upload your requirements (.txt or .csv)
+- **Tab 2:** Upload standards for compliance checking
+- **Tab 3:** Run validation — view agent discussion, flagged requirements, and summary
+- **Tab 4:** Ask MARV questions about the full validation session!
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repo and create a feature branch.
-2. Submit a pull request with a clear description.
-3. Open issues for suggestions or bugs.
-4. See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙋‍♂️ Team & Contact
-
-MARV is built by [Your Team/Organization].  
-Questions or feedback? [Open an Issue](https://github.com/your-org/marv-multi-agent-requirement-validator/issues) or email us at youremail@example.com.
+## 🙋‍♂️ Team & Contact.  
+Questions or feedback?
+email us at harisrujan.chinnam@tuni.fi
 
 ---
 
