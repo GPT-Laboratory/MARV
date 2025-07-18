@@ -1,0 +1,117 @@
+
+REQ-001	Email Requirement Initial requirement placeholder for email functionality; specific details to be defined by the requirements team.
+REQ-002	Email Requirement 2	Manage Scope: Understand the preliminary scope statement for the  statewide e- mail sys tem and ens ure that requirements remain wit hin scope.  3 .2   Manage Time:  Spec ific ation must be complete within 6 weeks (30  business days).
+REQ-003	Email Requirement 3	Manage Time :  Workgroup will use the 2006 Messaging Optimization  Workgroup Surv ey as  a bas is  for the 2009 Enterprise e-mail su rvey.
+REQ-004	Email Requirement 4	Ensure Completeness: Specification must be complete and detailed enough  to  s ubmit to outs ide vendors  as Request For Informatio  (RFI) or Request For Propos als  (RFP) or an Inv itation to Negotiate (ITN) .
+REQ-005	Email Requirement 5	Ensure Complete ess :  Specification must include an attachment which pro vides a  arrative and breakdown of existing agency resource s (personnel, equipment Œ  inc luding s torage c apabilities, software-licenses)  and current spend (reuse IV-C data  where applic able) on e-mail .  (Note: this information will be captured in the inv entory  s urvey whic h is  being c ompiled by the Enterprise E- mail technical team Œ and is not  inc luded in this  func tional specification.)
+REQ-006	Email Requirement 6	Ensure Completeness :  Specification must include an attachment which lis ts each  agencies ™ ris ks , is s ues , or constraints (such as so ftware-application dependencies,  c ontrac ts , or legal requirements) that may affect t heir ability to transition to an Enterpris e E-mail Sys tem.  (Note: this information will be compiled into a FAQ  doc ument whic h will be posted to the project web si te and made available to all s takeholders.)      Enterprise E-mail    Version:           1.5  Customer (Functional) Requirements   Created on 07/ 23/2009     9/17/2009  AEIT  4      4. Requirements Workgroup Glossary  Glossary ID:  Name Œ Description
+REQ-007	Email Requirement 7	Basic requirements  - The functional requirements that should be met a s part of the  ﬁbas ic ﬂ (minimal) s olution-offering (whether in hou se or outsourced). Note: all functional  requirements  will be s ubject to a technical and fin ancial feasibility analysis.
+
+REQ-008	Email Requirement 8	Extended requirements  - The functional requirements that could be met as  part of the  ﬁex tendedﬂ s olution offering (potentially at an add itional cost to the customer).  Note: all  func tional requirements  will be subject to a techni cal and financial feasibility analysis.
+REQ-009	Email
+ Requirement 9	E - mail , Calendar, Contacts   - The end-user services of an e-mail product that c an be  found in all e-mail platforms in use by the State t oday.
+
+REQ-010	Email Requirement 10	Archiving, Retention, Discovery   - The method of retaining e-mail messages to comply   with the Freedom of Information Act, Florida Public  Records Law, State and Federal  retention requirements , Sarbanes Oxley, HIPAA or ag ency-specific requirements;  Arc hiving is  a sys tematic  approach to saving and pr otec ting e-mail messages in their  entirety whic h c an be retrieved by the individual u ser and/or a system administrator;  Retention is  a period of time e-mail messages are r etained to meet agency and/or  federal requirements ; Dis covery is the ability to s earch e-mail archives, journals, etc.  bas ed on s pecific  c riteria to provide information f or legal and public records requests;  Searc h is  the ability to s c an e-mails based on spec ific criteria such as sender, date,  s ubjec t, c ontent, etc . and produce results for revi ew. E-mail Searches for compliance  with Federal Rules  of Civ il Procedure, public recor d requests, court ordered production  of elec tronic  rec ords , IG or internal investigation s, etc. include various levels of c omplex ity, s oftware utilities and their underlying  databases.
+REQ-011	Email Requirement 11	Disaster Recovery   -   The services that allow an agency to continue to wo rk during  and/or s oon after a dis as ter. Disasters can affect  one agency in the loss of a server to  affec ting multiple agenc ies after a natural disaste r such as a hurricane. Business c ontinuity and rec ov ery plans are designed to addre ss all severity levels.
+REQ-012	Email Requirement 12	Backup & Restore   -   Making copies of data so that these additional copi es may be used  to rec ov er the original after a data loss event.
+REQ-013	Email Requirement 13	Security, Anti - Virus, Filtering   -   The services that protect the end-user from receivi g  inappropriate, threatening and/or destructive messa ges as well as protecting sent data.
+REQ-014	Email Requirement 14	Remote Access, Mobile Messaging   - The method by which a user can access their e- mail and/or other s ervices by means other than at t heir work site.
+REQ-015	Email Requirement 15	Additional E - mail   Services   - The features and services that allow users to c ommunic ate with their c o-workers, project team, et c. outside of sending an e-mail.    Enterprise E-mail    Version:           1.5  Customer (Functional) Requirements   Created on 07/ 23/2009     9/17/2009  AEIT  5      5. Requirements Workgroup Team  Name  Role   Contact E-mail  Contact Phone  Jason Allis on Projec t Lead  Jason.Allison@aeit.myflorida.com  414-8046  Scott Jecko  Requirements   Lead  Scott.jecko@aeit.myflorida.com  414-6776  Terry Kester  Requirements   Lead  Terry.Kester@aeit.myflorida.com  413-7906  Scott H. Higgins  Workgroup  Participant  scott_higgins@dcf.state.fl.us  921-4487  Joel Gallay  Workgroup  Participant  gallayj@fdva.state.fl.us
+REQ-016	Email Requirement 16	(Statewide e-mail  system)  Fl Senate Site  http://www.leg.state.fl.us/STATUTES/index.cfm?App_m ode=Display_Sta tute&Searc h_String=&URL=Ch0282/SEC34.HTM&Title=-%3e 2009- %3eCh0282-%3eSection%2034%230282.34   Florida Statute
+REQ-017	Email Requirement 17	(Definitions )  Fl Senate Site  http://www.leg.state.fl.us/Statutes/index.cfm?App_m ode=Display_Statut e&Searc h_String=&URL=Ch0282/SEC0041.HTM&Title=->200 8- >Ch0282->Sec tion%200041#0282.0041       Enterprise E-mail    Version:           1.5  Customer (Functional) Requirements   Created on 07/ 23/2009     9/17/2009  AEIT  6      7. Basic Functional Requirements   Req. #  Category      List the basic functional requirements Œ what capab ilities should the service provide.
+
+
+REQ-018	Email Requirement 18	E-mail, Calendar, Contacts  Ability for the user to send, receive, and delete e -mail and attac hments.
+REQ-019	Email Requirement 19	E-mail, Calendar, Contacts  Ability for the user to reply to e-mail and attachm ents.
+REQ-020	Email Requirement 20	E-mail, Calendar, Contacts  Ability for the user to forward e-mail and attachme ts.
+REQ-021	Email Requirement 21	E-mail, Calendar, Contacts  Ability for the user to print e-mail messages.
+REQ-022	Email Requirement 22	E-mail, Calendar, Contacts  Ability for the user to customize e-mail messages w ith word proc es s or like features for formatting of e-mail co tent.
+REQ-023	Email Requirement 23	E-mail, Calendar, Contacts  Ability for the user to establish rules (auto reply , out of office reply,  temporary transfer to another party, move files to  inbox folders).
+REQ-024	Email Requirement 24	E-mail, Calendar, Contacts  Ability for the user to spell check.
+REQ-025	Email Requirement 25	E-mail, Calendar, Contacts  Ability for the user to organize content into perso al folders or s imilar s torage mechanism to aid with e-mail retrie val.
+REQ-026	Email Requirement 26	E-mail, Calendar, Contacts  Ability for the agency admin to migrate existing pu blic folders into  the s tatewide e-mail system.
+REQ-027	Email Requirement 27	E-mail, Calendar, Contacts  Ability for the agency admin to create and manage p ublic folders  or s imilar storage mechanism to aid with the collec tion, organization, and sharing of information with other  people in their  indiv idual agency or organization.
+REQ-028	Email Requirement 28	E-mail, Calendar, Contacts  Ability for the user to create contact lists, inclu ding those imported  from other sources.
+REQ-029	Email Requirement 29	E-mail, Calendar, Contacts  Ability for the user to export contact lists.
+REQ-030	Email Requirement 30	E-mail, Calendar, Contacts  Ability for the user to share contact lists / addre ss book.
+REQ-031	Email Requirement 31	E-mail, Calendar, Contacts  Ability for the agency admin to create and share di stribution lists   (inc luding the ability to create query based distri bution lists from  LDAP-like directory services).
+REQ-032	Email Requirement 32	E-mail, Calendar, Contacts  Ability for the user to create calendars and custom ize calendar   views .
+REQ-033	Email Requirement 33	E-mail, Calendar, Contacts  Ability for the user to schedule resources such as  conference rooms , teleconference rooms, etc.
+REQ-034	Email Requirement 34	E-mail, Calendar, Contacts  Ability for the user to create reminders and tasks.
+REQ-035	Email Requirement 35	E-mail, Calendar, Contacts  Ability for the agency admin to accommodate program mer testing  of e-mail functionality embedded in software applic ations.    Enterprise E-mail    Version:           1.5  Customer (Functional) Requirements   Created on 07/ 23/2009     9/17/2009  AEIT  7
+REQ-036	Email Requirement 36	E-mail, Calendar, Contacts  Ability for the user to share inbox, calendar, and  files with users,   given permission.
+REQ-037	Email Requirement 37	E-mail, Calendar, Contacts  Ability for the user to delegate their permissions  to another user.
+REQ-038	Email Requirement 38	E-mail, Calendar, Contacts  Ability for the user to embed links to files and we bsites in e-mails.
+REQ-039	Email Requirement 39	E-mail, Calendar, Contacts  Ability for the agency admin to provision e-mail ac counts for their  indiv idual agency or organization (including the ab ility to integrate  e-mail account provisioning with LDAP-like director y services).
+REQ-040	Email Requirement 40	E-mail, Calendar, Contacts  Ability for the user to search for e-mails based on  age, size, s ender, recipient, subject, key word, attachment co tent.
+REQ-041	Email Requirement 41	E-mail, Calendar, Contacts  Ability for the agency admin to auto-enforce standa rd conventions  for c reating accounts and distribution lists.
+REQ-042	Email Requirement 42	E-mail, Calendar, Contacts  Ability for the data center admin to control messag e size limits for  e-mail (inbound and outbound).
+REQ-043	Email Requirement 43	E-mail, Calendar, Contacts  Ability for the agency admin to create generic emai l ac c ounts/addresses to be accessed by multiple users . 
+REQ-044	Email Requirement 44	E-mail, Calendar, Contacts  Ability for the user to customize their view in the  client application   (s uc h as  adding fields, arranging fields, and order ing emails by fields ).
+REQ-045	Email Requirement 45	Archiving, Retention, Discovery  Ability for the user to archive at the desktop.
+REQ-046	Email Requirement 46	Archiving, Retention, Discovery  Ability for the agency admin to provide a server ba sed archiving  s olution.
+REQ-047	Email Requirement 47	Archiving, Retention, Discovery  Ability for the agency admin to archive at various  regularly defined  intervals .
+REQ-048	Email Requirement 48	Archiving, Retention, Discovery  Ability for the agency admin to search archive and  forward, print  and res tore in bulk items from archive.
+REQ-049	Email Requirement 49	Archiving, Retention, Discovery  Ability for the agency admin to filter archive by s ender, recipient,  date, s ubject, content, attachments, keyword, etc.
+REQ-050	Email Requirement 50	Archiving, Retention, Discovery  Ability for the agency admin to provide long term r etention s eparate from active e-mail system.
+REQ-051	Email Requirement 51	Archiving, Retention, Discovery  Ability for the agency admin to provide individual  users the ability  to s earc h their portion of the archive repository.
+REQ-052	Email Requirement 52	Archiving, Retention, Discovery  Ability for the agency admin to meet Federal regula tions for retention (i.e. Sarbanes Oxley, Gramm-Leach-Bliley  Act (GLB), HIPAA, etc.)    Enterprise E-mail    Version:           1.5  Customer (Functional) Requirements   Created on 07/ 23/2009     9/17/2009  AEIT  8
+REQ-053	Email Requirement 53	Archiving, Retention, Discovery  Ability for the agency admin to satisfy legal reque sts for e-mail   dis c ov ery and provide printed or digital results.
+REQ-054	Email Requirement 54	Archiving, Retention,  Discovery  Ability for the agency admin to capture all sent an d received e- mails  into the organization.
+REQ-055	Email Requirement 55	Archiving, Retention, Discovery  Ability for the agency admin to select the e-mail r etention period  for a s pecific e-mail (e.g. 1 year, 3 year, or 5 ye ar).
+REQ-056	Email Requirement 56	"Archiving, Retention, Discovery  Ability for the agency admin to search the e-mail "" header"" inc luding Date: From, Subject, To, and CC."
+REQ-057	Email Requirement 57	"Archiving, Retention, Discovery  Ability for the agency admin to search the ""body"" o f the e-mail   inc luding the header and all text contained within  the e-mail itself."
+REQ-058	Email Requirement 58	"Archiving, Retention, Discovery  Ability for the agency admin to perform a ""full tex t"" search inc luding the header, body and any attachments to t he e-mail."
+REQ-059	Email Requirement 59	Archiving, Retention, Discovery  Ability for the agency admin to support litigation  requests by produc tion of responsive e-mail in to a specified l ocation, for read  and redaction purposes.
+REQ-060	Email Requirement 60	Archiving, Retention, Discovery  Ability for the agency admin to move older data to  tiered storage  (lower c ost storage) while maintaining accessibilit y.
+REQ-061	Email Requirement 61	Archiving, Retention, Discovery  Ability for the agency admin to import data from ot her sources s uc h as  PST, NSF files into archiving solution.
+REQ-062	Email Requirement 62	Archiving, Retention, Discovery  Ability for the agency admin to put discovery searc h results on legal hold to suspend deletion.
+REQ-063	Email Requirement 63	Archiving, Retention, Discovery  Ability for the user (Legal, OIG, etc.) to review a d mark discovery  s earc h results.
+REQ-064	Email Requirement 64	Archiving, Retention, Discovery  Ability for the agency admin to search using Boolea  fields.
+REQ-065	Email Requirement 65	Archiving, Retention, Discovery  Ability for the agency admin to archive based on po licy (i.e. e-mail   addres s , OU, group, organization, etc.)
+REQ-066	Email Requirement 66	Archiving, Retention, Discovery  Ability for the user to delete, or flag for deletio  by system adminis trators, e-mails that have met their retenti on, in ac c ordance with s.119.021(2)(c) which requires agen cies to ﬁsys tematically dispose of records no longer needed .ﬂ (Note: Deletion means complete removal/elimination of all  copies of an e- mail from all portions of the system)ﬂ       Enterprise E-mail    Version:           1.5  Customer (Functional) Requirements   Created on 07/ 23/2009     9/17/2009  AEIT  9
+REQ-067	Email Requirement 67	Archiving, Retention, Discovery  Ability for the user to flag individual e-mails to  ot be archived.
+REQ-068	Email Requirement 68	Backup, Restore  Ability for the data center admin to recover at the  file level.
+REQ-069	Email Requirement 69	Backup, Restore  Ability for the data center admin to recover all me ssages .
+REQ-070	Email Requirement 70	Backup, Restore  Ability for the data center admin to recover a spec ific e-mail   mes s age.
+REQ-071	Email Requirement 71	Backup, Restore  Ability for the data center admin to recover by mai lbox.
+REQ-072	Email Requirement 72	Backup, Restore  Ability for the data center admin to recover by tim e.
+REQ-073	Email Requirement 73	Backup, Restore  Ability for the data center admin to maintain backu p and restore event logs.
+REQ-074	Email Requirement 74	Backup, Restore  Ability for the data center admin to restore previo us backup without service interruption.
+REQ-075	Email Requirement 75	Security, Anti- Virus, Filtering  Ability for the data center admin to provide pre-em ptive e-mail   virus  protection (scanning prior to delivery at the  mail server).
+REQ-076	Email Requirement 76	Security, Anti- Virus, Filtering  Ability for the data center admin to provide pre-em ptive e-mail   c ontent filtering.
+REQ-077	Email Requirement 77	Security, Anti- Virus, Filtering  Ability for the data center admin to whitelist/blac klist senders by domain or IP address.
+REQ-078	Email Requirement 78	Security, Anti- Virus, Filtering  Ability for the data center admin to block or allow  e-mail based on  multiple message attributes.
+REQ-079	Email Requirement 79	Security, Anti- Virus, Filtering  Ability for the data center admin to integrate mess age hygiene (antis pam/antivirus) with LDAP.
+REQ-080	Email Requirement 80	Security, Anti- Virus, Filtering  Ability for the data center admin to provide messag e hygiene (antis pam/antivirus) statistical reports.
+REQ-081	Email Requirement 81	Security, Anti- Virus, Filtering  Ability for the user to encrypt outbound e-mail.
+REQ-082	Email Requirement 82	Security, Anti- Virus, Filtering  Ability for the user to establish TLS encryption wi th other bus ines ses or customers.
+REQ-083	Email Requirement 83	Security, Anti- Virus, Filtering  Ability for the data center admin to protect the re putation of outbound mail gateways.
+REQ-084	Email Requirement 84	Security, Anti- Virus, Filtering  Ability for the data center admin to protect intern al e-mail customer  identity.
+REQ-085	Email Requirement 85	Remote Access, Mobile Messaging  Ability for the user to access e-mail by secure web  or client. (Calendar, Address book, Ability to send and receiv e).
+REQ-086	Email Requirement 86	Remote Access, Mobile Messaging  Ability for the user to access e-mail with Blackber ry services using  Blac kBerry device.
+REQ-087	Email Requirement 87	Remote Access, Mobile Messaging  Ability for the user to access e-mail with non-Blac kberry mobile data devices (iPhones, Treos, Pres. Etc.).    Enterprise E-mail    Version:           1.5  Customer (Functional) Requirements   Created on 07/ 23/2009     9/17/2009  AEIT  10
+REQ-088	Email Requirement 88	Remote Access, Mobile Messaging  Ability for the agency admin to support other mobil e device protoc ols (ActiveSync).
+REQ-089	Email Requirement 89	Remote Access, Mobile Messaging  Ability for the agency admin to Create, Update and  Delete   Blac kberry accounts.
+REQ-090	Email Requirement 90	Remote Access, Mobile Messaging  Ability for the user to access mailbox and componen ts via a web  brows er over a secure (encrypted) connection.
+REQ-091	Email Requirement 91	Additional E-mail  Services  Ability for the user to send/receive e-mails within  workflow applic ations.
+REQ-092	Email Requirement 92	Additional E-mail  Services  Ability for the user to provide resource reservatio s integrated into  e-mail.
+REQ-093	Email Requirement 93	Additional E-mail  Services  Ability for the user to access an SMTP bridgehead f or agency applic ations.
+REQ-094	Email Requirement 94	Additional E-mail  Services  Ability for the user to integrate agency applicatio s into the e-mail   and mobile messaging environments.      8. Extended Functional Requirements   Req. #  Category      List the extended functional requirements Œ what ad ditional  capabilities could the service provide.
+REQ-095	Email Requirement 95	Archiving, Retention, Discovery  Ability for the user to manually archive to server  from their client.
+REQ-096	Email Requirement 96	Archiving, Retention, Discovery  Ability for the agency admin to electronically reda ct information from arc hival storage.
+REQ-097	Email Requirement 97	Archiving, Retention, Discovery  Ability for the agency admin to digitally certify s earch results.
+REQ-098	Email Requirement 98	Archiving, Retention, Discovery  Ability for the agency admin to catalog responsive  e-mail (by case)  s o that e-mail can be electronically certified as c omplete to fulfill  the production.
+REQ-099	Email Requirement 99	Archiving, Retention, Discovery  Ability for the agency admin to demonstrate due dil igence and maintain markings for privileged and non-responsive  search res ults .
+REQ-100	Email Requirement 100	Archiving, Retention, Discovery  Ability for the agency admin to provide a full audi t trail of discovery  and review.
+REQ-101	Email Requirement 101	Disaster Recovery  Ability for the data center admin to do real-time r eplication to alternate site.
+REQ-102	Email Requirement 102	Disaster Recovery  Ability for the data center admin to do near-time r eplication to alternate site.    Enterprise E-mail    Version:           1.5  Customer (Functional) Requirements   Created on 07/ 23/2009     9/17/2009  AEIT  11
+REQ-103	Email Requirement 103	Disaster Recovery  Ability for the data center admin to fail-over mail  system and c lients  to alternate site.
+REQ-104	Email Requirement 104	Security, Anti- Virus, Filtering  Ability for the data center admin to retrieve quara tined messages.
+REQ-105	Email Requirement 105	Security, Anti- Virus, Filtering  Ability for the data center admin to add digital si gnatures  to e-mail.
+REQ-106	Email Requirement 106	Remote Access, Mobile Messaging  Ability for the user to access e-mail archive.
+REQ-107	Email Requirement 107	Remote Access, Mobile Messaging  Ability for the user to use wireless service with G IS.
+REQ-108	Email Requirement 108	Additional E-mail  Services  Ability for the user to provide fax service integra ted into e-mail.
+REQ-109	Email Requirement 109	Additional E-mail  Services  Ability for the user to integrate telephone messagi g (VOIP) into e- mail and vice/versa.
+REQ-110	Email Requirement 110	Additional E-mail  Services  Ability for the user to provide List Server option  for internal and ex ternal publishing of information (report subscrip tions).
+REQ-111	Email Requirement 111	Additional E-mail  Services  Ability for the agency admin to integrate directory  services with other c omplimentary external systems for a unified  client ex perience.

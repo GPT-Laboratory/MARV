@@ -1,0 +1,132 @@
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.1 - The requirement is stated in a clear and unambiguous manner. - Requirement text, peer review comments
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.2 - The requirement is verifiable through inspection, analysis, demonstration, or test. - Test procedure, verification matrix
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.3 - The requirement is necessary for meeting business, user, or system needs. - Stakeholder analysis, business case
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.4 - The requirement is feasible within technical, schedule, and cost constraints. - Feasibility study, project schedule
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.5 - The requirement is appropriately allocated to an element of the system. - Allocation matrix, system design document
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.6 - The requirement is prioritized according to business or stakeholder value. - Requirement priority level, stakeholder agreement
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.7 - The requirement is traceable to higher-level requirement or design. - Traceability matrix, requirements database
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.8 - The requirement is consistent with other requirements. - Consistency analysis, peer review
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.9 - The requirement is modifiable and uniquely identified. - Requirements baseline, change log
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.10 - The requirement is complete and does not leave ambiguity. - Requirement specification, completeness checklist
+ISO/IEC/IEEE 29148:2018, Clause 5.2.6 - The requirement can be traced to its origin and through all stages of system development. - Traceability matrix, linkage to stakeholder goals and verification activities
+ISO/IEC/IEEE 29148:2018, Annex A - The requirement is clear and comprehensible to all stakeholders. - Stakeholder readability score, glossary use
+IEEE Std 830-1984, Section 4.3 - The requirement is technically and economically feasible. - Technical feasibility analysis, cost estimation
+IEEE Std 830-1984, Section 4.4 - The requirement is structured to allow easy updates. - Impact analysis, modularization, dependency analysis
+IEEE Std 830-1984, Section 4.5 - The requirement is uniquely identified. - Requirements identification matrix, unique ID assignment
+IEEE Std 830-1984, Section 4.6 - The requirement is testable. - Test case design, validation protocol
+IEEE Std 830-1984, Section 4.7 - The requirement is consistent with project constraints. - Constraints analysis, requirement review log
+IEEE Std 830-1984, Section 4.8 - The requirement is documented in a standard format. - SRS template, documentation checklist
+ISO/IEC/IEEE 29148:2018, Clause 5.2.7 - The requirement supports risk management activities. - Risk assessment report, risk mitigation plan
+ISO/IEC/IEEE 29148:2018, Clause 5.2.8 - The requirement considers safety and security needs. - Safety analysis, security policy compliance
+ISO/IEC/IEEE 29148:2018, Clause 5.2.9 - The requirement considers regulatory or statutory constraints. - Regulatory compliance matrix, legal review
+ISO/IEC/IEEE 25010:2011, Clause 4.1 - The requirement addresses software quality attributes. - Quality attribute scenarios, performance benchmarks
+ISO/IEC/IEEE 25010:2011, Clause 4.2 - The requirement includes usability considerations. - Usability testing report, user feedback forms
+ISO/IEC/IEEE 25010:2011, Clause 4.3 - The requirement specifies maintainability. - Maintainability index, maintenance plan
+ISO/IEC/IEEE 25010:2011, Clause 4.4 - The requirement addresses reliability. - Reliability testing, failure rate analysis
+ISO/IEC/IEEE 25010:2011, Clause 4.5 - The requirement considers portability. - Portability analysis, multi-platform testing
+ISO/IEC/IEEE 25010:2011, Clause 4.6 - The requirement considers interoperability. - Interoperability testing, interface documentation
+ISO/IEC/IEEE 25010:2011, Clause 4.7 - The requirement includes security needs. - Security audit, penetration test results
+ISO/IEC/IEEE 25010:2011, Clause 4.8 - The requirement supports performance goals. - Load testing, performance profiling
+ISO/IEC/IEEE 25010:2011, Clause 4.9 - The requirement is compatible with existing systems. - Compatibility matrix, integration testing
+ISO/IEC/IEEE 29148:2018, Clause 6.1 - Requirements are reviewed by all stakeholders. - Review meeting minutes, approval signatures
+ISO/IEC/IEEE 29148:2018, Clause 6.2 - The requirement is updated based on feedback. - Change request form, version history
+ISO/IEC/IEEE 29148:2018, Clause 6.3 - The requirement is maintained throughout the project lifecycle. - Requirements maintenance plan, traceability updates
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.1 - The requirement is stated in a clear and unambiguous manner. - Requirement text, peer review comments
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.2 - The requirement is verifiable through inspection, analysis, demonstration, or test. - Test procedure, verification matrix
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.3 - The requirement is necessary for meeting business, user, or system needs. - Stakeholder analysis, business case
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.4 - The requirement is feasible within technical, schedule, and cost constraints. - Feasibility study, project schedule
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.5 - The requirement is appropriately allocated to an element of the system. - Allocation matrix, system design document
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.6 - The requirement is prioritized according to business or stakeholder value. - Requirement priority level, stakeholder agreement
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.7 - The requirement is traceable to higher-level requirement or design. - Traceability matrix, requirements database
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.8 - The requirement is consistent with other requirements. - Consistency analysis, peer review
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.9 - The requirement is modifiable and uniquely identified. - Requirements baseline, change log
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.10 - The requirement is complete and does not leave ambiguity. - Requirement specification, completeness checklist
+ISO/IEC/IEEE 29148:2018, Clause 5.2.6 - The requirement can be traced to its origin and through all stages of system development. - Traceability matrix, linkage to stakeholder goals and verification activities
+ISO/IEC/IEEE 29148:2018, Annex A - The requirement is clear and comprehensible to all stakeholders. - Stakeholder readability score, glossary use
+IEEE Std 830-1984, Section 4.3 - The requirement is technically and economically feasible. - Technical feasibility analysis, cost estimation
+IEEE Std 830-1984, Section 4.4 - The requirement is structured to allow easy updates. - Impact analysis, modularization, dependency analysis
+IEEE Std 830-1984, Section 4.5 - The requirement is uniquely identified. - Requirements identification matrix, unique ID assignment
+IEEE Std 830-1984, Section 4.6 - The requirement is testable. - Test case design, validation protocol
+IEEE Std 830-1984, Section 4.7 - The requirement is consistent with project constraints. - Constraints analysis, requirement review log
+IEEE Std 830-1984, Section 4.8 - The requirement is documented in a standard format. - SRS template, documentation checklist
+ISO/IEC/IEEE 29148:2018, Clause 5.2.7 - The requirement supports risk management activities. - Risk assessment report, risk mitigation plan
+ISO/IEC/IEEE 29148:2018, Clause 5.2.8 - The requirement considers safety and security needs. - Safety analysis, security policy compliance
+ISO/IEC/IEEE 29148:2018, Clause 5.2.9 - The requirement considers regulatory or statutory constraints. - Regulatory compliance matrix, legal review
+ISO/IEC/IEEE 25010:2011, Clause 4.1 - The requirement addresses software quality attributes. - Quality attribute scenarios, performance benchmarks
+ISO/IEC/IEEE 25010:2011, Clause 4.2 - The requirement includes usability considerations. - Usability testing report, user feedback forms
+ISO/IEC/IEEE 25010:2011, Clause 4.3 - The requirement specifies maintainability. - Maintainability index, maintenance plan
+ISO/IEC/IEEE 25010:2011, Clause 4.4 - The requirement addresses reliability. - Reliability testing, failure rate analysis
+ISO/IEC/IEEE 25010:2011, Clause 4.5 - The requirement considers portability. - Portability analysis, multi-platform testing
+ISO/IEC/IEEE 25010:2011, Clause 4.6 - The requirement considers interoperability. - Interoperability testing, interface documentation
+ISO/IEC/IEEE 25010:2011, Clause 4.7 - The requirement includes security needs. - Security audit, penetration test results
+ISO/IEC/IEEE 25010:2011, Clause 4.8 - The requirement supports performance goals. - Load testing, performance profiling
+ISO/IEC/IEEE 25010:2011, Clause 4.9 - The requirement is compatible with existing systems. - Compatibility matrix, integration testing
+ISO/IEC/IEEE 29148:2018, Clause 6.1 - Requirements are reviewed by all stakeholders. - Review meeting minutes, approval signatures
+ISO/IEC/IEEE 29148:2018, Clause 6.2 - The requirement is updated based on feedback. - Change request form, version history
+ISO/IEC/IEEE 29148:2018, Clause 6.3 - The requirement is maintained throughout the project lifecycle. - Requirements maintenance plan, traceability updates
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.1 - The requirement is stated in a clear and unambiguous manner. - Requirement text, peer review comments
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.2 - The requirement is verifiable through inspection, analysis, demonstration, or test. - Test procedure, verification matrix
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.3 - The requirement is necessary for meeting business, user, or system needs. - Stakeholder analysis, business case
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.4 - The requirement is feasible within technical, schedule, and cost constraints. - Feasibility study, project schedule
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.5 - The requirement is appropriately allocated to an element of the system. - Allocation matrix, system design document
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.6 - The requirement is prioritized according to business or stakeholder value. - Requirement priority level, stakeholder agreement
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.7 - The requirement is traceable to higher-level requirement or design. - Traceability matrix, requirements database
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.8 - The requirement is consistent with other requirements. - Consistency analysis, peer review
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.9 - The requirement is modifiable and uniquely identified. - Requirements baseline, change log
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.10 - The requirement is complete and does not leave ambiguity. - Requirement specification, completeness checklist
+ISO/IEC/IEEE 29148:2018, Clause 5.2.6 - The requirement can be traced to its origin and through all stages of system development. - Traceability matrix, linkage to stakeholder goals and verification activities
+ISO/IEC/IEEE 29148:2018, Annex A - The requirement is clear and comprehensible to all stakeholders. - Stakeholder readability score, glossary use
+IEEE Std 830-1984, Section 4.3 - The requirement is technically and economically feasible. - Technical feasibility analysis, cost estimation
+IEEE Std 830-1984, Section 4.4 - The requirement is structured to allow easy updates. - Impact analysis, modularization, dependency analysis
+IEEE Std 830-1984, Section 4.5 - The requirement is uniquely identified. - Requirements identification matrix, unique ID assignment
+IEEE Std 830-1984, Section 4.6 - The requirement is testable. - Test case design, validation protocol
+IEEE Std 830-1984, Section 4.7 - The requirement is consistent with project constraints. - Constraints analysis, requirement review log
+IEEE Std 830-1984, Section 4.8 - The requirement is documented in a standard format. - SRS template, documentation checklist
+ISO/IEC/IEEE 29148:2018, Clause 5.2.7 - The requirement supports risk management activities. - Risk assessment report, risk mitigation plan
+ISO/IEC/IEEE 29148:2018, Clause 5.2.8 - The requirement considers safety and security needs. - Safety analysis, security policy compliance
+ISO/IEC/IEEE 29148:2018, Clause 5.2.9 - The requirement considers regulatory or statutory constraints. - Regulatory compliance matrix, legal review
+ISO/IEC/IEEE 25010:2011, Clause 4.1 - The requirement addresses software quality attributes. - Quality attribute scenarios, performance benchmarks
+ISO/IEC/IEEE 25010:2011, Clause 4.2 - The requirement includes usability considerations. - Usability testing report, user feedback forms
+ISO/IEC/IEEE 25010:2011, Clause 4.3 - The requirement specifies maintainability. - Maintainability index, maintenance plan
+ISO/IEC/IEEE 25010:2011, Clause 4.4 - The requirement addresses reliability. - Reliability testing, failure rate analysis
+ISO/IEC/IEEE 25010:2011, Clause 4.5 - The requirement considers portability. - Portability analysis, multi-platform testing
+ISO/IEC/IEEE 25010:2011, Clause 4.6 - The requirement considers interoperability. - Interoperability testing, interface documentation
+ISO/IEC/IEEE 25010:2011, Clause 4.7 - The requirement includes security needs. - Security audit, penetration test results
+ISO/IEC/IEEE 25010:2011, Clause 4.8 - The requirement supports performance goals. - Load testing, performance profiling
+ISO/IEC/IEEE 25010:2011, Clause 4.9 - The requirement is compatible with existing systems. - Compatibility matrix, integration testing
+ISO/IEC/IEEE 29148:2018, Clause 6.1 - Requirements are reviewed by all stakeholders. - Review meeting minutes, approval signatures
+ISO/IEC/IEEE 29148:2018, Clause 6.2 - The requirement is updated based on feedback. - Change request form, version history
+ISO/IEC/IEEE 29148:2018, Clause 6.3 - The requirement is maintained throughout the project lifecycle. - Requirements maintenance plan, traceability updates
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.1 - The requirement is stated in a clear and unambiguous manner. - Requirement text, peer review comments
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.2 - The requirement is verifiable through inspection, analysis, demonstration, or test. - Test procedure, verification matrix
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.3 - The requirement is necessary for meeting business, user, or system needs. - Stakeholder analysis, business case
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.4 - The requirement is feasible within technical, schedule, and cost constraints. - Feasibility study, project schedule
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.5 - The requirement is appropriately allocated to an element of the system. - Allocation matrix, system design document
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.6 - The requirement is prioritized according to business or stakeholder value. - Requirement priority level, stakeholder agreement
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.7 - The requirement is traceable to higher-level requirement or design. - Traceability matrix, requirements database
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.8 - The requirement is consistent with other requirements. - Consistency analysis, peer review
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.9 - The requirement is modifiable and uniquely identified. - Requirements baseline, change log
+ISO/IEC/IEEE 29148:2018, Clause 5.2.5.10 - The requirement is complete and does not leave ambiguity. - Requirement specification, completeness checklist
+ISO/IEC/IEEE 29148:2018, Clause 5.2.6 - The requirement can be traced to its origin and through all stages of system development. - Traceability matrix, linkage to stakeholder goals and verification activities
+ISO/IEC/IEEE 29148:2018, Annex A - The requirement is clear and comprehensible to all stakeholders. - Stakeholder readability score, glossary use
+IEEE Std 830-1984, Section 4.3 - The requirement is technically and economically feasible. - Technical feasibility analysis, cost estimation
+IEEE Std 830-1984, Section 4.4 - The requirement is structured to allow easy updates. - Impact analysis, modularization, dependency analysis
+IEEE Std 830-1984, Section 4.5 - The requirement is uniquely identified. - Requirements identification matrix, unique ID assignment
+IEEE Std 830-1984, Section 4.6 - The requirement is testable. - Test case design, validation protocol
+IEEE Std 830-1984, Section 4.7 - The requirement is consistent with project constraints. - Constraints analysis, requirement review log
+IEEE Std 830-1984, Section 4.8 - The requirement is documented in a standard format. - SRS template, documentation checklist
+ISO/IEC/IEEE 29148:2018, Clause 5.2.7 - The requirement supports risk management activities. - Risk assessment report, risk mitigation plan
+ISO/IEC/IEEE 29148:2018, Clause 5.2.8 - The requirement considers safety and security needs. - Safety analysis, security policy compliance
+ISO/IEC/IEEE 29148:2018, Clause 5.2.9 - The requirement considers regulatory or statutory constraints. - Regulatory compliance matrix, legal review
+ISO/IEC/IEEE 25010:2011, Clause 4.1 - The requirement addresses software quality attributes. - Quality attribute scenarios, performance benchmarks
+ISO/IEC/IEEE 25010:2011, Clause 4.2 - The requirement includes usability considerations. - Usability testing report, user feedback forms
+ISO/IEC/IEEE 25010:2011, Clause 4.3 - The requirement specifies maintainability. - Maintainability index, maintenance plan
+ISO/IEC/IEEE 25010:2011, Clause 4.4 - The requirement addresses reliability. - Reliability testing, failure rate analysis
+ISO/IEC/IEEE 25010:2011, Clause 4.5 - The requirement considers portability. - Portability analysis, multi-platform testing
+ISO/IEC/IEEE 25010:2011, Clause 4.6 - The requirement considers interoperability. - Interoperability testing, interface documentation
+ISO/IEC/IEEE 25010:2011, Clause 4.7 - The requirement includes security needs. - Security audit, penetration test results
+ISO/IEC/IEEE 25010:2011, Clause 4.8 - The requirement supports performance goals. - Load testing, performance profiling
+ISO/IEC/IEEE 25010:2011, Clause 4.9 - The requirement is compatible with existing systems. - Compatibility matrix, integration testing
+ISO/IEC/IEEE 29148:2018, Clause 6.1 - Requirements are reviewed by all stakeholders. - Review meeting minutes, approval signatures
+ISO/IEC/IEEE 29148:2018, Clause 6.2 - The requirement is updated based on feedback. - Change request form, version history
+ISO/IEC/IEEE 29148:2018, Clause 6.3 - The requirement is maintained throughout the project lifecycle. - Requirements maintenance plan, traceability updates
