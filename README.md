@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/HuggingFace-Transformers-yellow?logo=huggingface" />
   <img src="https://img.shields.io/badge/RAG-Enabled-orange" />
 </p>
-MARV is an AI-powered  tool for automated validation of software requirements using a collaborative, multi-agent architecture. It leverages advanced LLMs and retrieval-augmented generation (RAG) to streamline requirements analysis, standards compliance, and team discussions—making SRS reviews faster, smarter, and more reliable.
+MARV is an AI-powered  tool for automated validation of software requirements using a collaborative, multi-agent architecture. It leverages advanced LLMs and retrieval-augmented generation (RAG) to streamline requirements analysis, standards compliance, and team discussions, making SRS reviews faster, smarter, and more reliable.
 
 ---
 ![LandingPage](./assets/landingpage.png)
@@ -51,6 +51,7 @@ MARV is an AI-powered  tool for automated validation of software requirements us
 - `agents_langgraph.py` – Agent logic and core functions
 - `requirements.txt` – Dependencies
 - `assets/` – Project assets
+- `input/` - Input files for project
 
 ---
 ## 🏗️ How to Use
